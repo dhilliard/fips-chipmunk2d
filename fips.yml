@@ -1,0 +1,5 @@
+exports:
+    header-dirs:
+        - Chipmunk2D/include/
+    modules:
+        chipmunk: Chipmunk2D
